@@ -1,7 +1,7 @@
 # DynamicBoneWizard
 A DynamicBone Installer/Configurer Plugin for Neos.
 
-![promo_1](https://raw.githubusercontent.com/dfgHiatus/DynamicBoneWizard/main/dynBone.jpg)
+![promo_1](https://github.com/dfgHiatus/DynamicBoneWizard/blob/main/dynbone.PNG)
 
 ## Usage
 1) Go to the releases tab and download the plugin DLL. 
