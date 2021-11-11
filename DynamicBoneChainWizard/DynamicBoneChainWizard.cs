@@ -104,6 +104,7 @@ namespace DynamicBoneWizard
 
 			listOfSingletons.AddRange(new string[]
 			{
+					"<DynBone>",
 					"tail",
 					"breastupper",
 					"leftbooty",
