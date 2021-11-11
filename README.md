@@ -12,6 +12,8 @@ A DynamicBone Installer/Configurer Plugin for Neos.
 ## Disclaimer
 As the naming conventions for Dynamic Bone vary greatly, I cannot guarantee this Plugin will detect every proper bone.
 
+Pro Tip: If you start your bone name with <DynBone>, the system will always detect it!
+
 ## For Developers and Contributers
 If you would like to add the names of dynamic bones to this Plugin, read on!
 
